@@ -1,0 +1,23 @@
+# Ambientes virtuais e Cache do Python
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+# Vídeos (Inputs e Outputs)
+*.mp4
+*.avi
+*.mkv
+
+# Banco de Dados
+*.db
+*.sqlite3
+
+# Pastas de Datasets Locais
+Sentinela_Dataset/
+runs/
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
