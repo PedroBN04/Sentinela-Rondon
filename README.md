@@ -1,4 +1,4 @@
-# 👁️ Sentinela Rondon: Monitoramento Inteligente e Telemetria Urbana
+# Sentinela Rondon: Monitoramento Inteligente e Telemetria Urbana
 
 Um sistema de Visão Computacional e Engenharia de Dados desenvolvido como uma Prova de Conceito (PoC) para prevenção de desastres urbanos. O Sentinela analisa o fluxo de veículos em tempo real (via imagens aéreas *top-down*) e cruza essas informações com dados meteorológicos para emitir alertas autônomos de risco de enchentes.
 
